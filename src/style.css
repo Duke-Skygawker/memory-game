@@ -1,0 +1,52 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+}
+
+body {
+  background-color: black;
+  color: aquamarine;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+h3 {
+  margin: 1rem;
+  font-size: 2rem;
+}
+img {
+  border: solid red 2px;
+}
+
+canvas {
+  background-color: rgba(64, 64, 64, 0.4);
+  border: solid red 1px;
+}
+img {
+  width: 160px;
+}
+
+#grid {
+  margin: 1rem;
+  max-width: 720px;
+}
