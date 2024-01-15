@@ -4,9 +4,12 @@
 
 ### Learning
 
-⋅⋅* Learned more about webpack, configs, and production builds
-⋅⋅* Learned how to remove event listeners from elements (hoops upon hoops!)
-⋅⋅* Learned more about query selectors and usage
+ Learned more about webpack, configs, and production builds
 
- ⋅⋅* Assets provided by [Ania Kubow](https://github.com/kubowania)
-⋅⋅* The idea is from her tutorial, I did make the whole thing by myself though.
+ Learned how to remove event listeners from elements (hoops upon hoops!)
+
+ Learned more about query selectors and usage
+
+Assets provided by [Ania Kubow](https://github.com/kubowania)
+
+The idea is from her tutorial, I did make the whole thing by myself though.
